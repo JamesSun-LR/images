@@ -7,3 +7,7 @@ drwxrwxr-x 8 jamsun jamsun  4096 Jul 14 06:26 .git/
 -rw-rw-r-- 1 jamsun jamsun     0 Jul 14 06:35 test.txt
 
 test
+
+
+test push
+
