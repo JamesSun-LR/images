@@ -1,11 +1,4 @@
-total 80
-drwxrwxr-x 3 jamsun jamsun  4096 Jul 14 06:35 ./
-drwxr-xr-x 6 jamsun jamsun  4096 Jul 10 10:01 ../
-drwxrwxr-x 8 jamsun jamsun  4096 Jul 14 06:26 .git/
--rw-rw-r-- 1 jamsun jamsun     8 Jul 10 10:01 README.md
--rw-rw-r-- 1 jamsun jamsun 62665 Jul 10 10:01 WX20201124-144542.png
--rw-rw-r-- 1 jamsun jamsun     0 Jul 14 06:35 test.txt
-
+deleted
 test
 
 
