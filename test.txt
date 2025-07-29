@@ -12,11 +12,6 @@ test
 test push
 
 
-21
-33
-
-44
-55
 
 
 /usr/bin/git commit --no-verify
@@ -26,4 +21,6 @@ test push
 
 james
 2345
+james@test.com
+
 
