@@ -9,18 +9,12 @@ drwxrwxr-x 8 jamsun jamsun  4096 Jul 14 06:26 .git/
 test
 
 
-test push
-
-
-
 
 /usr/bin/git commit --no-verify
 /usr/bin/git push --no-verify
 
 
 
-james
-2345
-james@test.com
+
 
 
